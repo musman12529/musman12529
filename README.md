@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
-<h3 align="center">Full-Stack Developer | 4th Year Computer Science Student</h3>
+<h3 align="center">Full-Stack Developer |  Recent Computer Science graduate</h3>
 
 <p align="center">
   I build full-stack apps with modern web technologies and enjoy creating practical software that solves real problems.
