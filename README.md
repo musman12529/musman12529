@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
-<h3 align="center">Full-Stack Developer |  Co-Founder</h3>
+<h3 align="center">Software Engineer |  Co-Founder</h3>
 
 <p align="center">
   I build full-stack apps with modern web technologies and enjoy creating practical software that solves real problems.
@@ -21,9 +21,8 @@
 
 ## 🚀 About Me
 
-- 🎓 4th year Computer Science student
-- 💻 Currently working as a **Full-Stack Web Developer**
-- 🌱 Focused on building scalable web applications
+- 💻 Currently working as a **Software Engineer**
+- 🌱 Focused on building scalable AI Web Applications
 - 📫 Reach me at **m.usman12529@gmail.com**
 
 ---
